@@ -1,0 +1,13 @@
+{
+  "name": "poke-web",
+  "version": "1.0.0",
+  "description": "poke-web",
+  "main": "src/index.js",
+  "scripts": {
+    "server": "./scripts/server.sh"
+  },
+  "author": "akdev",
+  "license": "GPL-3.0",
+  "dependencies": {
+  }
+}
